@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FootballTeamMeanHeight {
+public class FootBallTeamMeanHeight {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double[] heights = new double[11];

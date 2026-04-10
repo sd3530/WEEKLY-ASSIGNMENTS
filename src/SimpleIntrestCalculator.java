@@ -13,7 +13,7 @@ public class SimpleIntrestCalculator {
         System.out.print("Enter time: ");
         double time = sc.nextDouble();
         double SimpleIntrest = (principal * rate * time) / 100;
-        System.out.println("SimplaIntrest: "+ simpleIntrest);
+        System.out.println("SimpleIntrest: "+ SimpleIntrest);
         sc.close();
     }
 }
